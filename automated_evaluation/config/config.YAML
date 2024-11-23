@@ -1,0 +1,4 @@
+prompt_dir: /home/arifahmad/quant-t2i/Project/QuantifyT2I/data/counting_selected/annotations/counting_accuracy_prompts.json
+image_dir: /home/arifahmad/quant-t2i/Project/QuantifyT2I/data/counting_selected/images
+category: counting_accuracy
+score_save_dir: /home/arifahmad/quant-t2i/Project/QuantifyT2I/automated_evaluation/Results

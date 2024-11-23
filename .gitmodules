@@ -1,0 +1,3 @@
+[submodule "automated_evaluation/t2v_metrics"]
+	path = automated_evaluation/t2v_metrics
+	url = https://github.com/linzhiqiu/t2v_metrics.git

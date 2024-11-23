@@ -1,0 +1,212 @@
+{
+    "Create an image of exactly six red and two blue balloons in a garden": [
+        "[('a red balloon', [50, 50, 60, 80]), ('a red balloon', [120, 50, 60, 80]), ('a red balloon', [190, 50, 60, 80]), ('a red balloon', [260, 50, 60, 80]), ('a red balloon', [330, 50, 60, 80]), ('a red balloon', [400, 50, 60, 80]), ('a blue balloon', [50, 150, 60, 80]), ('a blue balloon', [120, 150, 60, 80])]\nBackground prompt: A garden\nNegative prompt: "
+    ],
+    "Generate an image with exactly eleven pencils arranged neatly on a desk": [
+        "[('a pencil', [50, 200, 30, 10]), ('a pencil', [90, 200, 30, 10]), ('a pencil', [130, 200, 30, 10]), ('a pencil', [170, 200, 30, 10]), ('a pencil', [210, 200, 30, 10]), ('a pencil', [250, 200, 30, 10]), ('a pencil', [290, 200, 30, 10]), ('a pencil', [330, 200, 30, 10]), ('a pencil', [370, 200, 30, 10]), ('a pencil', [410, 200, 30, 10]), ('a pencil', [450, 200, 30, 10])]\nBackground prompt: A realistic scene\nNegative prompt: "
+    ],
+    "Create an image with exactly six ducks swimming in a lake": [
+        "[('a duck', [50, 200, 80, 60]), ('a duck', [150, 210, 80, 60]), ('a duck', [250, 220, 80, 60]), ('a duck', [350, 230, 80, 60]), ('a duck', [450, 240, 80, 60]), ('a duck', [250, 300, 80, 60])]\nBackground prompt: A realistic scene of ducks swimming in a lake\nNegative prompt: "
+    ],
+    "Depict an image of exactly two cars parked on a street": [
+        "[('a car', [50, 300, 150, 100]), ('a car', [250, 300, 150, 100])]\nBackground prompt: A realistic street scene\nNegative prompt: "
+    ],
+    "Create an image with exactly six fruits in a bowl: two apples, three bananas, and one orange": [
+        "[('an apple', [50, 200, 100, 100]), ('an apple', [160, 200, 100, 100]), ('a banana', [270, 200, 100, 100]), ('a banana', [380, 200, 100, 100]), ('a banana', [50, 320, 100, 100]), ('an orange', [160, 320, 100, 100])]\nBackground prompt: A realistic scene\nNegative prompt: "
+    ],
+    "Generate an image of five children playing on a seesaw": [
+        "[('a child', [50, 300, 80, 80]), ('a child', [150, 250, 80, 80]), ('a child', [250, 300, 80, 80]), ('a child', [350, 250, 80, 80]), ('a child', [450, 300, 80, 80])]\nBackground prompt: A realistic scene of children playing\nNegative prompt: "
+    ],
+    "Create an image of exactly six trees in a park with a clear path in the middle": [
+        "[('a tree', [20, 100, 80, 200]), ('a tree', [120, 100, 80, 200]), ('a tree', [220, 100, 80, 200]), ('a tree', [320, 100, 80, 200]), ('a tree', [420, 100, 80, 200]), ('a tree', [520, 100, 80, 200])]\nBackground prompt: A park with a clear path in the middle\nNegative prompt: "
+    ],
+    "Show an image with exactly seven  kittens on a sofa": [
+        "[('a kitten', [10, 150, 70, 70]), ('a kitten', [90, 150, 70, 70]), ('a kitten', [170, 150, 70, 70]), ('a kitten', [250, 150, 70, 70]), ('a kitten', [330, 150, 70, 70]), ('a kitten', [410, 150, 70, 70]), ('a kitten', [490, 150, 70, 70])]\nBackground prompt: A realistic scene\nNegative prompt: "
+    ],
+    "Create an image of exactly seven candles lit on a dining table, with five wine glasses beside them": [
+        "[('seven lit candles', [50, 150, 200, 300]), ('five wine glasses', [260, 180, 200, 100])]\nBackground prompt: A realistic dining table scene\nNegative prompt: "
+    ],
+    "Depict a scene with exactly four puppies playing on a grassy field near a small pond": [
+        "[('a puppy', [30, 200, 100, 100]), ('a puppy', [150, 200, 100, 100]), ('a puppy', [270, 200, 100, 100]), ('a puppy', [390, 200, 100, 100])]\nBackground prompt: A grassy field near a small pond\nNegative prompt: "
+    ],
+    "Show an image of exactly fourteen birds sitting on two telephone wires": [
+        "[('a bird', [10, 50, 30, 30]), ('a bird', [50, 50, 30, 30]), ('a bird', [90, 50, 30, 30]), ('a bird', [130, 50, 30, 30]), ('a bird', [170, 50, 30, 30]), ('a bird', [210, 50, 30, 30]), ('a bird', [250, 50, 30, 30]), ('a bird', [290, 50, 30, 30]), ('a bird', [330, 50, 30, 30]), ('a bird', [370, 50, 30, 30]), ('a bird', [410, 50, 30, 30]), ('a bird', [450, 50, 30, 30]), ('a bird', [490, 50, 30, 30]), ('a bird', [10, 100, 30, 30])]\nBackground prompt: A realistic scene\nNegative prompt: "
+    ],
+    "Create an image of exactly fifteen bicycles parked in a row outside a library": [
+        "[('a bicycle', [10, 400, 30, 60]), ('a bicycle', [50, 400, 30, 60]), ('a bicycle', [90, 400, 30, 60]), ('a bicycle', [130, 400, 30, 60]), ('a bicycle', [170, 400, 30, 60]), ('a bicycle', [210, 400, 30, 60]), ('a bicycle', [250, 400, 30, 60]), ('a bicycle', [290, 400, 30, 60]), ('a bicycle', [330, 400, 30, 60]), ('a bicycle', [370, 400, 30, 60]), ('a bicycle', [410, 400, 30, 60]), ('a bicycle', [450, 400, 30, 60]), ('a bicycle', [490, 400, 30, 60]), ('a bicycle', [10, 470, 30, 60]), ('a bicycle', [50, 470, 30, 60])]\nBackground prompt: A realistic scene of bicycles parked outside a library\nNegative prompt: "
+    ],
+    "Depict a beach scene with exactly six people building sandcastles near the shoreline": [
+        "[('a person', [30, 400, 50, 100]), ('a person', [100, 400, 50, 100]), ('a person', [170, 400, 50, 100]), ('a person', [240, 400, 50, 100]), ('a person', [310, 400, 50, 100]), ('a person', [380, 400, 50, 100])]\nBackground prompt: A beach scene with a shoreline\nNegative prompt: "
+    ],
+    "Generate an image of exactly two horses standing in a stable, with a pile of five haystacks beside them": [
+        "[('a horse', [50, 200, 150, 200]), ('a horse', [250, 200, 150, 200]), ('a pile of haystacks', [150, 320, 200, 150])]\nBackground prompt: A stable scene\nNegative prompt: "
+    ],
+    "Generate an image of a classroom with exactly fifteen students sitting at their desks": [
+        "[('a student', [10, 50, 40, 40]), ('a student', [60, 50, 40, 40]), ('a student', [110, 50, 40, 40]), ('a student', [160, 50, 40, 40]), ('a student', [210, 50, 40, 40]), ('a student', [260, 50, 40, 40]), ('a student', [310, 50, 40, 40]), ('a student', [360, 50, 40, 40]), ('a student', [410, 50, 40, 40]), ('a student', [10, 100, 40, 40]), ('a student', [60, 100, 40, 40]), ('a student', [110, 100, 40, 40]), ('a student', [160, 100, 40, 40]), ('a student', [210, 100, 40, 40]), ('a student', [260, 100, 40, 40])]\nBackground prompt: A classroom scene\nNegative prompt: "
+    ],
+    "Create an image of exactly two dogs playing in a park, with four children watching them": [
+        "[('a dog', [50, 200, 100, 100]), ('a dog', [250, 200, 100, 100])]\nBackground prompt: A park scene with children watching\nNegative prompt: "
+    ],
+    "Depict a scene with exactly five cars parked in a parking lot with two tree, and one bicycles nearby": [
+        "[('a car', [10, 300, 100, 50]), ('a car', [120, 300, 100, 50]), ('a car', [230, 300, 100, 50]), ('a car', [340, 300, 100, 50]), ('a car', [450, 300, 100, 50]), ('a tree', [50, 200, 50, 100]), ('a tree', [400, 200, 50, 100]), ('a bicycle', [250, 350, 60, 30])]\nBackground prompt: A realistic scene of a parking lot\nNegative prompt: "
+    ],
+    "Show an image of exactly nine birds perched on a fence, with three more flying in the sky above": [
+        "[('a bird', [20, 50, 50, 50]), ('a bird', [80, 50, 50, 50]), ('a bird', [140, 50, 50, 50]), ('a bird', [200, 50, 50, 50]), ('a bird', [260, 50, 50, 50]), ('a bird', [320, 50, 50, 50]), ('a bird', [380, 50, 50, 50]), ('a bird', [440, 50, 50, 50]), ('a bird', [500, 50, 50, 50]), ('a bird', [100, 10, 50, 50]), ('a bird', [200, 10, 50, 50]), ('a bird', [300, 10, 50, 50])]\nBackground prompt: A realistic scene\nNegative prompt: chairs"
+    ],
+    "Generate an image of a garden with exactly eight sunflowers in full bloom, surrounded by three rose bushes": [
+        "[('a sunflower', [50, 200, 50, 100]), ('a sunflower', [110, 200, 50, 100]), ('a sunflower', [170, 200, 50, 100]), ('a sunflower', [230, 200, 50, 100]), ('a sunflower', [290, 200, 50, 100]), ('a sunflower', [350, 200, 50, 100]), ('a sunflower', [410, 200, 50, 100]), ('a sunflower', [470, 200, 50, 100]), ('a rose bush', [50, 320, 100, 100]), ('a rose bush', [200, 320, 100, 100]), ('a rose bush', [350, 320, 100, 100])]\nBackground prompt: A garden scene\nNegative prompt: "
+    ],
+    "Create an image of exactly three dogs sleeping on a sofa, with six cushions arranged neatly on the floor": [
+        "[('a dog', [50, 200, 100, 100]), ('a dog', [200, 200, 100, 100]), ('a dog', [350, 200, 100, 100])]\nBackground prompt: A realistic scene of a sofa with dogs\nNegative prompt: cushions"
+    ],
+    "Show an image of exactly two boats sailing on a river, with one ducks swimming alongside them": [
+        "[('a boat', [50, 200, 200, 100]), ('a boat', [300, 200, 200, 100]), ('a duck', [220, 250, 50, 30])]\nBackground prompt: A realistic scene of a river\nNegative prompt: "
+    ],
+    "Depict a scene with exactly three kites flying in the sky, with four children running to catch them": [
+        "[('a kite', [50, 20, 100, 100]), ('a kite', [200, 30, 100, 100]), ('a kite', [350, 25, 100, 100]), ('a child', [30, 300, 50, 100]), ('a child', [100, 290, 50, 100]), ('a child', [200, 310, 50, 100]), ('a child', [300, 300, 50, 100])]\nBackground prompt: A realistic outdoor scene with children running in a field\nNegative prompt: "
+    ],
+    "Create an image of exactly five balloons tied to a fence, with five more floating in the sky above": [
+        "[('five balloons tied to a fence', [50, 300, 200, 100]), ('five balloons floating in the sky', [150, 50, 200, 100])]\nBackground prompt: A realistic outdoor scene with a fence\nNegative prompt: "
+    ],
+    "Show an image of exactly two ice cream trucks parked on a street, with seven children lined up to buy ice cream": [
+        "[('an ice cream truck', [50, 300, 150, 150]), ('an ice cream truck', [300, 300, 150, 150]), ('a child', [75, 250, 30, 50]), ('a child', [120, 250, 30, 50]), ('a child', [165, 250, 30, 50]), ('a child', [210, 250, 30, 50]), ('a child', [255, 250, 30, 50]), ('a child', [300, 250, 30, 50]), ('a child', [345, 250, 30, 50])]\nBackground prompt: A street scene with ice cream trucks\nNegative prompt: "
+    ],
+    "Create an image of exactly five pumpkins arranged on a porch, with three skeletons standing in the yard": [
+        "[('a pumpkin', [50, 300, 80, 80]), ('a pumpkin', [150, 300, 80, 80]), ('a pumpkin', [250, 300, 80, 80]), ('a pumpkin', [350, 300, 80, 80]), ('a pumpkin', [450, 300, 80, 80]), ('a skeleton', [100, 200, 60, 150]), ('a skeleton', [250, 200, 60, 150]), ('a skeleton', [400, 200, 60, 150])]\nBackground prompt: A porch during Halloween\nNegative prompt: chairs"
+    ],
+    "Show an image of exactly one airplanes on an airport runway, with seventeen helicopters hovering nearby": [
+        "[('an airplane', [200, 250, 112, 60]), ('a helicopter', [50, 100, 80, 40]), ('a helicopter', [150, 80, 80, 40]), ('a helicopter', [250, 60, 80, 40]), ('a helicopter', [350, 90, 80, 40]), ('a helicopter', [450, 110, 80, 40]), ('a helicopter', [50, 200, 80, 40]), ('a helicopter', [150, 220, 80, 40]), ('a helicopter', [250, 240, 80, 40]), ('a helicopter', [350, 210, 80, 40]), ('a helicopter', [450, 230, 80, 40]), ('a helicopter', [50, 300, 80, 40]), ('a helicopter', [150, 320, 80, 40]), ('a helicopter', [250, 340, 80, 40]), ('a helicopter', [350, 310, 80, 40]), ('a helicopter', [450, 330, 80, 40]), ('a helicopter', [50, 400, 80, 40])]\nBackground prompt: A realistic airport runway scene\nNegative prompt: chairs"
+    ],
+    "Create an image of exactly five geese swimming in a pond": [
+        "[('a goose', [50, 200, 80, 50]), ('a goose', [150, 200, 80, 50]), ('a goose', [250, 200, 80, 50]), ('a goose', [350, 200, 80, 50]), ('a goose', [450, 200, 80, 50])]\nBackground prompt: A realistic scene of a pond\nNegative prompt: "
+    ],
+    "Generate an image of a kitchen counter with exactly fifteen loaves of bread, stacked neatly in five piles": [
+        "[('a loaf of bread', [50, 200, 100, 50]), ('a loaf of bread', [50, 260, 100, 50]), ('a loaf of bread', [50, 320, 100, 50]), ('a loaf of bread', [50, 380, 100, 50]), ('a loaf of bread', [50, 440, 100, 50]), ('a loaf of bread', [160, 200, 100, 50]), ('a loaf of bread', [160, 260, 100, 50]), ('a loaf of bread', [160, 320, 100, 50]), ('a loaf of bread', [160, 380, 100, 50]), ('a loaf of bread', [160, 440, 100, 50]), ('a loaf of bread', [270, 200, 100, 50]), ('a loaf of bread', [270, 260, 100, 50]), ('a loaf of bread', [270, 320, 100, 50]), ('a loaf of bread', [270, 380, 100, 50]), ('a loaf of bread', [270, 440, 100, 50])]\nBackground prompt: A realistic kitchen scene\nNegative prompt: "
+    ],
+    "Depict a scene with exactly four children blowing bubbles": [
+        "[('a child blowing bubbles', [50, 200, 100, 100]), ('a child blowing bubbles', [160, 200, 100, 100]), ('a child blowing bubbles', [270, 200, 100, 100]), ('a child blowing bubbles', [380, 200, 100, 100])]\nBackground prompt: A realistic scene\nNegative prompt: "
+    ],
+    "Show an image of exactly two firefighters using hoses to spray water": [
+        "[('a firefighter', [50, 200, 100, 200]), ('a firefighter', [300, 200, 100, 200])]\nBackground prompt: A realistic scene of firefighters in action\nNegative prompt: "
+    ],
+    "Create an image of exactly five goats standing on a rocky hill, with three more grazing on the grass below": [
+        "[('a goat', [30, 200, 80, 80]), ('a goat', [120, 210, 80, 80]), ('a goat', [210, 190, 80, 80]), ('a goat', [300, 220, 80, 80]), ('a goat', [390, 200, 80, 80]), ('a grazing goat', [50, 350, 80, 80]), ('a grazing goat', [150, 360, 80, 80]), ('a grazing goat', [250, 340, 80, 80])]\nBackground prompt: A rocky hill with grass below\nNegative prompt: "
+    ],
+    "Generate an image of a library with exactly six people reading books, and seven books stacked on a nearby table": [
+        "[('a person reading a book', [10, 50, 50, 100]), ('a person reading a book', [70, 50, 50, 100]), ('a person reading a book', [130, 50, 50, 100]), ('a person reading a book', [190, 50, 50, 100]), ('a person reading a book', [250, 50, 50, 100]), ('a person reading a book', [310, 50, 50, 100]), ('seven stacked books', [400, 200, 100, 50])]\nBackground prompt: A library scene\nNegative prompt: chairs, tables"
+    ],
+    "Depict a scene with exactly five hot air balloons floating in the sky, with six clouds drifting nearby": [
+        "[('a hot air balloon', [50, 20, 100, 100]), ('a hot air balloon', [160, 20, 100, 100]), ('a hot air balloon', [270, 20, 100, 100]), ('a hot air balloon', [380, 20, 100, 100]), ('a hot air balloon', [490, 20, 100, 100])]\nBackground prompt: A realistic scene with a clear sky\nNegative prompt: clouds"
+    ],
+    "Create an image of exactly three astronauts standing beside one space shuttles on a launchpad": [
+        "[('an astronaut', [50, 200, 100, 200]), ('an astronaut', [200, 200, 100, 200]), ('an astronaut', [350, 200, 100, 200]), ('a space shuttle', [100, 50, 312, 150])]\nBackground prompt: A realistic scene of a launchpad\nNegative prompt: "
+    ],
+    "Generate an image of a farmyard with exactly six cows grazing and one chickens pecking the ground nearby": [
+        "[('a cow', [10, 300, 80, 80]), ('a cow', [100, 290, 80, 80]), ('a cow', [190, 310, 80, 80]), ('a cow', [280, 280, 80, 80]), ('a cow', [370, 300, 80, 80]), ('a cow', [460, 290, 80, 80]), ('a chicken', [230, 400, 50, 50])]\nBackground prompt: A farmyard scene\nNegative prompt: "
+    ],
+    "Show an image of exactly four school buses lined up in front of a school, with twelve children boarding one of them": [
+        "[('a school bus', [20, 300, 100, 50]), ('a school bus', [140, 300, 100, 50]), ('a school bus', [260, 300, 100, 50]), ('a school bus', [380, 300, 100, 50]), ('a child', [200, 270, 30, 50]), ('a child', [220, 270, 30, 50]), ('a child', [240, 270, 30, 50]), ('a child', [260, 270, 30, 50]), ('a child', [280, 270, 30, 50]), ('a child', [300, 270, 30, 50]), ('a child', [320, 270, 30, 50]), ('a child', [340, 270, 30, 50])]\nBackground prompt: A realistic scene of a school with buses\nNegative prompt: "
+    ],
+    "Create an image of a living room with exactly five pillows on a sofa and three magazines spread on a coffee table": [
+        "[('a pillow', [50, 200, 80, 80]), ('a pillow', [140, 200, 80, 80]), ('a pillow', [230, 200, 80, 80]), ('a pillow', [320, 200, 80, 80]), ('a pillow', [410, 200, 80, 80]), ('a magazine', [100, 300, 80, 50]), ('a magazine', [200, 300, 80, 50]), ('a magazine', [300, 300, 80, 50])]\nBackground prompt: A realistic living room scene\nNegative prompt: "
+    ],
+    "Depict an image of exactly three lions resting in a savannah, with four gazelles grazing in the background": [
+        "[('a lion', [50, 250, 100, 100]), ('a lion', [200, 250, 100, 100]), ('a lion', [350, 250, 100, 100])]\nBackground prompt: A savannah scene\nNegative prompt: gazelles"
+    ],
+    "Show an image of a beach with exactly four surfboards stuck in the sand and five seagulls walking nearby": [
+        "[('a surfboard', [50, 350, 100, 30]), ('a surfboard', [160, 350, 100, 30]), ('a surfboard', [270, 350, 100, 30]), ('a surfboard', [380, 350, 100, 30]), ('a seagull', [100, 400, 50, 30]), ('a seagull', [200, 410, 50, 30]), ('a seagull', [300, 420, 50, 30]), ('a seagull', [400, 430, 50, 30]), ('a seagull', [250, 390, 50, 30])]\nBackground prompt: A realistic beach scene\nNegative prompt: chairs"
+    ],
+    "Create an image of a boardroom with exactly eleven chairs around a table and three monitors open on the table": [
+        "[('a table', [56, 200, 400, 200]), ('a monitor', [70, 220, 100, 75]), ('a monitor', [200, 220, 100, 75]), ('a monitor', [330, 220, 100, 75]), ('a chair', [10, 200, 46, 75]), ('a chair', [10, 280, 46, 75]), ('a chair', [10, 360, 46, 75]), ('a chair', [450, 200, 46, 75]), ('a chair', [450, 280, 46, 75]), ('a chair', [450, 360, 46, 75]), ('a chair', [150, 200, 46, 75]), ('a chair', [150, 360, 46, 75]), ('a chair', [300, 200, 46, 75]), ('a chair', [300, 360, 46, 75])]\nBackground prompt: A realistic boardroom scene\nNegative prompt: chairs"
+    ],
+    "Generate an image of a circus tent with exactly six clowns swinging": [
+        "[('a circus tent', [50, 50, 412, 412]), ('a clown', [100, 100, 50, 100]), ('a clown', [160, 100, 50, 100]), ('a clown', [220, 100, 50, 100]), ('a clown', [280, 100, 50, 100]), ('a clown', [340, 100, 50, 100]), ('a clown', [400, 100, 50, 100])]\nBackground prompt: A realistic circus scene\nNegative prompt: "
+    ],
+    "Depict a scene with exactly four firefighters climbing a ladder and nine more waiting at the bottom": [
+        "[('a firefighter', [10, 150, 50, 150]), ('a firefighter', [70, 120, 50, 150]), ('a firefighter', [130, 90, 50, 150]), ('a firefighter', [190, 60, 50, 150]), ('a firefighter', [250, 150, 50, 150]), ('a firefighter', [310, 150, 50, 150]), ('a firefighter', [370, 150, 50, 150]), ('a firefighter', [430, 150, 50, 150]), ('a firefighter', [490, 150, 50, 150])]\nBackground prompt: A scene with firefighters and a ladder\nNegative prompt: "
+    ],
+    "Generate an image of exactly six rabbits hopping in a meadow beside a large tree": [
+        "[('a rabbit', [10, 200, 80, 80]), ('a rabbit', [100, 210, 80, 80]), ('a rabbit', [200, 220, 80, 80]), ('a rabbit', [300, 230, 80, 80]), ('a rabbit', [400, 240, 80, 80]), ('a rabbit', [500, 250, 80, 80]), ('a large tree', [150, 50, 200, 300])]\nBackground prompt: A meadow beside a large tree\nNegative prompt: "
+    ],
+    "Depict an image of a concert with exactly six musicians playing instruments": [
+        "[('a musician', [50, 150, 100, 200]), ('a musician', [160, 150, 100, 200]), ('a musician', [270, 150, 100, 200]), ('a musician', [380, 150, 100, 200]), ('a musician', [50, 370, 100, 200]), ('a musician', [160, 370, 100, 200])]\nBackground prompt: A realistic concert scene\nNegative prompt: "
+    ],
+    "Create an image of exactly six ice cream cones displayed on a cart, with one child holding a cone in his hand": [
+        "[('six ice cream cones', [106, 150, 300, 212]), ('a child holding an ice cream cone', [50, 200, 100, 200])]\nBackground prompt: A realistic scene\nNegative prompt: "
+    ],
+    "Show an image of a farm with exactly eight sheep grazing in the field, with two resting near a fence": [
+        "[('a sheep', [50, 200, 60, 60]), ('a sheep', [120, 200, 60, 60]), ('a sheep', [190, 200, 60, 60]), ('a sheep', [260, 200, 60, 60]), ('a sheep', [330, 200, 60, 60]), ('a sheep', [400, 200, 60, 60]), ('a sheep', [470, 200, 60, 60]), ('a sheep', [50, 280, 60, 60]), ('a sheep', [120, 280, 60, 60])]\nBackground prompt: A realistic scene of a farm\nNegative prompt: "
+    ],
+    "Generate an image of a picnic scene with exactly five sandwiches laid on a blanket and four people holding sandwiches": [
+        "[('a sandwich', [50, 200, 100, 50]), ('a sandwich', [50, 260, 100, 50]), ('a sandwich', [50, 320, 100, 50]), ('a sandwich', [50, 380, 100, 50]), ('a sandwich', [50, 440, 100, 50]), ('a person holding a sandwich', [200, 200, 50, 100]), ('a person holding a sandwich', [200, 320, 50, 100]), ('a person holding a sandwich', [350, 200, 50, 100]), ('a person holding a sandwich', [350, 320, 50, 100])]\nBackground prompt: A picnic scene\nNegative prompt: "
+    ],
+    "Show an image of a carnival booth with exactly four teddy bears on display": [
+        "[('a teddy bear', [50, 150, 100, 100]), ('a teddy bear', [160, 150, 100, 100]), ('a teddy bear', [270, 150, 100, 100]), ('a teddy bear', [380, 150, 100, 100])]\nBackground prompt: A realistic scene of a carnival booth\nNegative prompt: "
+    ],
+    "Create an image of exactly five fire trucks parked nearby": [
+        "[('a fire truck', [10, 300, 100, 100]), ('a fire truck', [120, 300, 100, 100]), ('a fire truck', [230, 300, 100, 100]), ('a fire truck', [340, 300, 100, 100]), ('a fire truck', [450, 300, 100, 100])]\nBackground prompt: A realistic scene\nNegative prompt: "
+    ],
+    "Create an image of exactly seven mailboxes lined up on a street": [
+        "[('a mailbox', [20, 200, 60, 100]), ('a mailbox', [100, 200, 60, 100]), ('a mailbox', [180, 200, 60, 100]), ('a mailbox', [260, 200, 60, 100]), ('a mailbox', [340, 200, 60, 100]), ('a mailbox', [420, 200, 60, 100]), ('a mailbox', [500, 200, 60, 100])]\nBackground prompt: A realistic street scene\nNegative prompt: "
+    ],
+    "Generate an image of exactly four musicians playing instruments in a park": [
+        "[('a musician', [50, 200, 100, 200]), ('a musician', [200, 200, 100, 200]), ('a musician', [350, 200, 100, 200]), ('a musician', [450, 200, 100, 200])]\nBackground prompt: A park scene\nNegative prompt: "
+    ],
+    "Depict a scene with exactly five horses galloping in a field": [
+        "[('a horse', [10, 300, 100, 150]), ('a horse', [120, 280, 100, 150]), ('a horse', [230, 290, 100, 150]), ('a horse', [340, 310, 100, 150]), ('a horse', [450, 300, 100, 150])]\nBackground prompt: A realistic scene of a field\nNegative prompt: "
+    ],
+    "Generate an image of a bus stop with exactly six people waiting": [
+        "[('a person', [30, 400, 50, 100]), ('a person', [100, 400, 50, 100]), ('a person', [170, 400, 50, 100]), ('a person', [240, 400, 50, 100]), ('a person', [310, 400, 50, 100]), ('a person', [380, 400, 50, 100])]\nBackground prompt: A realistic scene of a bus stop\nNegative prompt: "
+    ],
+    "Show a farmyard with exactly five pigs playing in the mud, with three chickens standing nearby": [
+        "[('a pig', [30, 300, 100, 100]), ('a pig', [150, 310, 100, 100]), ('a pig', [270, 290, 100, 100]), ('a pig', [390, 280, 100, 100]), ('a pig', [450, 300, 100, 100]), ('a chicken', [100, 200, 80, 60]), ('a chicken', [200, 210, 80, 60]), ('a chicken', [300, 220, 80, 60])]\nBackground prompt: A farmyard scene\nNegative prompt: "
+    ],
+    "Create an image of exactly six students sitting in a line, with six books open in front of them": [
+        "[('a student', [20, 100, 80, 150]), ('a student', [120, 100, 80, 150]), ('a student', [220, 100, 80, 150]), ('a student', [320, 100, 80, 150]), ('a student', [420, 100, 80, 150]), ('a student', [520, 100, 80, 150]), ('a book', [20, 270, 80, 40]), ('a book', [120, 270, 80, 40]), ('a book', [220, 270, 80, 40]), ('a book', [320, 270, 80, 40]), ('a book', [420, 270, 80, 40]), ('a book', [520, 270, 80, 40])]\nBackground prompt: A realistic classroom scene\nNegative prompt: "
+    ],
+    "Generate an image of a riverbank with exactly four herons standing in the shallow water, with four turtles sunbathing on a nearby rock": [
+        "[('a heron', [50, 200, 100, 150]), ('a heron', [160, 200, 100, 150]), ('a heron', [270, 200, 100, 150]), ('a heron', [380, 200, 100, 150]), ('a turtle', [100, 350, 80, 40]), ('a turtle', [200, 350, 80, 40]), ('a turtle', [300, 350, 80, 40]), ('a turtle', [400, 350, 80, 40])]\nBackground prompt: A riverbank scene\nNegative prompt: "
+    ],
+    "Show an image of a classroom where exactly three children are holding paintbrushes, with ten paintings": [
+        "[('a child holding a paintbrush', [50, 150, 100, 150]), ('a child holding a paintbrush', [200, 150, 100, 150]), ('a child holding a paintbrush', [350, 150, 100, 150]), ('a painting', [50, 320, 100, 80]), ('a painting', [160, 320, 100, 80]), ('a painting', [270, 320, 100, 80]), ('a painting', [380, 320, 100, 80]), ('a painting', [50, 410, 100, 80]), ('a painting', [160, 410, 100, 80]), ('a painting', [270, 410, 100, 80])]\nBackground prompt: A classroom scene\nNegative prompt: "
+    ],
+    "Create an image of exactly eight oranges arranged in a basket, with five bananas lying inside the basket on a wooden table": [
+        "[('eight oranges', [106, 150, 300, 212]), ('five bananas', [150, 200, 200, 100]), ('a wooden table', [20, 148, 472, 216])]\nBackground prompt: A realistic scene\nNegative prompt: "
+    ],
+    "Depict a train station platform with exactly three suitcases arranged in a line, while three passengers are waiting beside them": [
+        "[('a suitcase', [50, 300, 100, 100]), ('a suitcase', [180, 300, 100, 100]), ('a suitcase', [310, 300, 100, 100]), ('a passenger', [20, 250, 80, 150]), ('a passenger', [200, 250, 80, 150]), ('a passenger', [400, 250, 80, 150])]\nBackground prompt: A train station platform\nNegative prompt: "
+    ],
+    "Generate an image of a campsite with exactly three tents set up in a circle, with one campfire burning in front of them": [
+        "[('a tent', [50, 300, 150, 150]), ('a tent', [200, 300, 150, 150]), ('a tent', [350, 300, 150, 150]), ('a campfire', [175, 250, 160, 100])]\nBackground prompt: A realistic campsite scene\nNegative prompt: "
+    ],
+    "Show a football field with exactly six players standing on the ground": [
+        "[('a player', [50, 200, 50, 100]), ('a player', [120, 200, 50, 100]), ('a player', [190, 200, 50, 100]), ('a player', [260, 200, 50, 100]), ('a player', [330, 200, 50, 100]), ('a player', [400, 200, 50, 100])]\nBackground prompt: A realistic football field scene\nNegative prompt: "
+    ],
+    "Create an image of a restaurant counter with exactly four plates arranged on it, while five chefs are behind the counter": [
+        "[('a plate', [50, 200, 100, 50]), ('a plate', [160, 200, 100, 50]), ('a plate', [270, 200, 100, 50]), ('a plate', [380, 200, 100, 50])]\nBackground prompt: A realistic restaurant counter scene\nNegative prompt: chefs"
+    ],
+    "Depict a garden with exactly six rabbits hopping on the grass": [
+        "[('a rabbit', [50, 200, 80, 80]), ('a rabbit', [150, 200, 80, 80]), ('a rabbit', [250, 200, 80, 80]), ('a rabbit', [350, 200, 80, 80]), ('a rabbit', [450, 200, 80, 80]), ('a rabbit', [300, 300, 80, 80])]\nBackground prompt: A garden scene\nNegative prompt: "
+    ],
+    "Create an image of exactly ten baskets of strawberries at a farmer\u2019s market, with three persons inspecting the fruit": [
+        "[('a basket of strawberries', [20, 300, 100, 100]), ('a basket of strawberries', [140, 300, 100, 100]), ('a basket of strawberries', [260, 300, 100, 100]), ('a basket of strawberries', [380, 300, 100, 100]), ('a basket of strawberries', [20, 420, 100, 100]), ('a basket of strawberries', [140, 420, 100, 100]), ('a basket of strawberries', [260, 420, 100, 100]), ('a basket of strawberries', [380, 420, 100, 100]), ('a person inspecting the fruit', [50, 200, 50, 150]), ('a person inspecting the fruit', [200, 200, 50, 150]), ('a person inspecting the fruit', [350, 200, 50, 150])]\nBackground prompt: A farmer\u2019s market scene\nNegative prompt: "
+    ],
+    "Generate an image of exactly six ducks waddling in a farmyard": [
+        "[('a duck', [50, 200, 80, 60]), ('a duck', [140, 200, 80, 60]), ('a duck', [230, 200, 80, 60]), ('a duck', [320, 200, 80, 60]), ('a duck', [410, 200, 80, 60]), ('a duck', [500, 200, 80, 60])]\nBackground prompt: A farmyard scene\nNegative prompt: "
+    ],
+    "Depict a scene with exactly five kayaks floating on a river": [
+        "[('a kayak', [10, 200, 100, 50]), ('a kayak', [120, 210, 100, 50]), ('a kayak', [230, 220, 100, 50]), ('a kayak', [340, 205, 100, 50]), ('a kayak', [450, 215, 100, 50])]\nBackground prompt: A realistic scene of a river\nNegative prompt: "
+    ],
+    "Create an image of exactly four parrots sitting on branches in a rainforest": [
+        "[('a parrot', [50, 100, 100, 100]), ('a parrot', [200, 100, 100, 100]), ('a parrot', [350, 100, 100, 100]), ('a parrot', [450, 100, 100, 100])]\nBackground prompt: A rainforest scene\nNegative prompt: "
+    ],
+    "Generate an image of exactly seven hikers trekking on a trail": [
+        "[('a hiker', [10, 250, 50, 100]), ('a hiker', [70, 240, 50, 100]), ('a hiker', [130, 230, 50, 100]), ('a hiker', [190, 220, 50, 100]), ('a hiker', [250, 210, 50, 100]), ('a hiker', [310, 200, 50, 100]), ('a hiker', [370, 190, 50, 100])]\nBackground prompt: A realistic outdoor scene on a trail\nNegative prompt: "
+    ],
+    "Show an image of a music room with exactly ten guitars hanging on a wall, and six amplifiers on the floor below": [
+        "[('a guitar', [20, 50, 100, 150]), ('a guitar', [130, 50, 100, 150]), ('a guitar', [240, 50, 100, 150]), ('a guitar', [350, 50, 100, 150]), ('a guitar', [460, 50, 100, 150]), ('a guitar', [20, 220, 100, 150]), ('a guitar', [130, 220, 100, 150]), ('a guitar', [240, 220, 100, 150]), ('a guitar', [350, 220, 100, 150]), ('a guitar', [460, 220, 100, 150]), ('an amplifier', [20, 400, 80, 80]), ('an amplifier', [110, 400, 80, 80]), ('an amplifier', [200, 400, 80, 80]), ('an amplifier', [290, 400, 80, 80]), ('an amplifier', [380, 400, 80, 80]), ('an amplifier', [470, 400, 80, 80])]\nBackground prompt: A music room\nNegative prompt: chairs, flowers"
+    ],
+    "Create an image of exactly sixteen seashells arranged on a sandy beach": [
+        "[('a seashell', [20, 200, 50, 50]), ('a seashell', [80, 200, 50, 50]), ('a seashell', [140, 200, 50, 50]), ('a seashell', [200, 200, 50, 50]), ('a seashell', [260, 200, 50, 50]), ('a seashell', [320, 200, 50, 50]), ('a seashell', [380, 200, 50, 50]), ('a seashell', [440, 200, 50, 50]), ('a seashell', [20, 260, 50, 50]), ('a seashell', [80, 260, 50, 50]), ('a seashell', [140, 260, 50, 50]), ('a seashell', [200, 260, 50, 50]), ('a seashell', [260, 260, 50, 50]), ('a seashell', [320, 260, 50, 50]), ('a seashell', [380, 260, 50, 50]), ('a seashell', [440, 260, 50, 50])]\nBackground prompt: A realistic scene of a sandy beach\nNegative prompt: "
+    ]
+}
